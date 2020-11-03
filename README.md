@@ -1,1 +1,3 @@
-# Instagram-story-react-native
+# Instagram story using react-native
+
+
