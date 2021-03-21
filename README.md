@@ -1,3 +1,3 @@
-# Instagram story using react-native
+# Instagram story clone using react-native
 
 
